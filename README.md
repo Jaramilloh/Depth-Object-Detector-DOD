@@ -12,7 +12,6 @@ The model itself was trained and evaluated with the Common Objects in Context (C
 
 References.
 
-<font size="1">This is my text number1</font> 
 [1] G. Jocher, A. Chaurasia, and J. Qiu, “Ultralytics yolov8,” 2023. [Online]. Available: https://github.com/ultralytics/ultralytics
 
 [2] T.-Y. Lin, M. Maire, S. Belongie, L. Bourdev, R. Girshick, J. Hays, P. Perona, D. Ramanan, C. L. Zitnick, and P. Dollár, “Microsoft coco: Common objects in context,” 2015.
