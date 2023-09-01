@@ -6,9 +6,13 @@ The architecture of the proposed method is heavily inspired in the architecture 
 
 The model itself was trained and evaluated with the Common Objects in Context (COCO) 2017 [2] dataset for object detection task, and with the MinneApple [3,4,5] dataset for fruits detection for edge IoT applications. These datasets were proccesed in order to synthetize a representative depth value for each object label using the monocular depth map predictor model MiDas [6,7] implemented by [Intelligent Systems Lab Org](https://github.com/isl-org).
 
+<br/><br/>
+
+<br/><br/>
 
 References.
 
+<font size="1">This is my text number1</font> 
 [1] G. Jocher, A. Chaurasia, and J. Qiu, “Ultralytics yolov8,” 2023. [Online]. Available: https://github.com/ultralytics/ultralytics
 
 [2] T.-Y. Lin, M. Maire, S. Belongie, L. Bourdev, R. Girshick, J. Hays, P. Perona, D. Ramanan, C. L. Zitnick, and P. Dollár, “Microsoft coco: Common objects in context,” 2015.
