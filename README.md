@@ -6,6 +6,8 @@ The architecture of the proposed method is heavily inspired in the architecture 
 
 The model itself was trained and evaluated with the Common Objects in Context (COCO) 2017 [2] dataset for object detection task, and with the MinneApple [3,4,5] dataset for fruits detection for edge IoT applications. These datasets were proccesed in order to synthetize a representative depth value for each object label using the monocular depth map predictor model MiDas [6,7] implemented by [Intelligent Systems Lab Org](https://github.com/isl-org).
 
+Check out for the details on our paper [Application of Machine Vision Techniques in Low-Cost Devices to Improve Efficiency in Precision Farming](https://doi.org/10.3390/s24030937).
+
 <br/><br/>
 
 <br/><br/>
