@@ -8,6 +8,8 @@ The model itself was trained and evaluated with the Common Objects in Context (C
 
 Check out for the details on our paper [Application of Machine Vision Techniques in Low-Cost Devices to Improve Efficiency in Precision Farming](https://doi.org/10.3390/s24030937).
 
+Check out the new Optimized Ablation-Driven Depth Object Detector model implementation by Continous Integration with Infrastructure as Code [Jaramilloh/DOD-ci-cd](https://github.com/Jaramilloh/DOD-ci-cd).
+
 <br/><br/>
 
 <br/><br/>
